@@ -1,3 +1,5 @@
+> Наша вариация развивается как самостоятельный [AWG Control](https://github.com/william-aqn/microtik-awg3-installer): один контейнер, веб-панель, сохранённые VPN-профили, Direct / Geo / VPN для устройств и управление Mode/USR. Этот форк оставлен как исходная точка; реализация и инструкции находятся в новом проекте. Спасибо catesin за исходную работу.
+
 # :boom: AmneziaWG + MikroTik :boom:
 
 ![img](Demonstration/logo.png)
